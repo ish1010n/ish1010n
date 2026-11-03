@@ -1,68 +1,72 @@
-ish1010n/README.md
- Typing SVG
-Profile Views LinkedIn Email Portfolio
+<div align="center">
 
-> whoami
-name:        Nishant Sawardekar
-location:    Navi Mumbai, India 🇮🇳
-background:  Former TechOps Intern @ TechPlus Infotech (Apr–Oct 2026)
-education:   MCA (SPPU, 2025) · B.Sc. (Mumbai University, 2023)
-focus:       [ DevOps, Cloud, CI/CD, Containers ]
-languages:   English · Hindi · Marathi · German (basic)
-status:      🟢 Open to DevOps / Cloud Engineer opportunities
-I spent six months working on Ubuntu servers, AWS and Jenkins pipelines, and I enjoy turning manual deployment steps into automated ones.
+<a href="https://github.com/ish1010n"><img src="https://raw.githubusercontent.com/ish1010n/ish1010n/main/assets/banner.svg" alt="Nishant Sawardekar - DevOps, Cloud, Automation" width="100%"/></a>
 
-> cat skills.json
-☁️ Cloud & Infrastructure
+<br/>
 
-AWS EC2 S3 CloudWatch IAM / VPC
+<a href="https://www.linkedin.com/in/nishant-sawardekar-2974063a4"><img src="https://img.shields.io/badge/LinkedIn-Connect-00F5FF?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/></a> <a href="mailto:nishant.sawardekar2002@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-FF00C8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> <a href="https://github.com/ish1010n/nishant-portfolio"><img src="https://img.shields.io/badge/Portfolio-View-7B2FF7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 
-⚙️ CI/CD & DevOps
+<img src="https://raw.githubusercontent.com/ish1010n/ish1010n/main/assets/divider.svg" width="100%" alt=""/> <img src="https://raw.githubusercontent.com/ish1010n/ish1010n/main/assets/terminal.svg" alt="Terminal intro" width="100%"/> <img src="https://raw.githubusercontent.com/ish1010n/ish1010n/main/assets/divider.svg" width="100%" alt=""/> </div>
+> ./pipeline --live
+<div align="center"> <a href="https://github.com/ish1010n/automated-deployment-system"><img src="https://raw.githubusercontent.com/ish1010n/ish1010n/main/assets/pipeline.svg" alt="Animated CI/CD pipeline - click to open the Automated Deployment System repo" width="100%"/></a> </div>
+> stack --orbit
+<div align="center"> <img src="https://raw.githubusercontent.com/ish1010n/ish1010n/main/assets/orbit.svg" alt="Orbiting tech stack" width="100%"/> <br/>
 
-Jenkins Docker Kubernetes Ansible
+<a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS"/></a> <a href="https://www.jenkins.io/"><img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/></a> <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a> <a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/></a> <a href="https://www.ansible.com/"><img src="https://img.shields.io/badge/Ansible_(Basics)-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/></a> <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a> <a href="https://bitbucket.org/"><img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket"/></a> <a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/></a> <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/Bash_(Basics)-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/></a> <a href="https://nginx.org/"><img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/></a> <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/></a> <a href="https://www.microsoft.com/sql-server"><img src="https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/></a>
 
-🔧 Version Control, OS & Web
-
-Git GitHub Bitbucket Ubuntu Bash Nginx
-
-🗄️ Databases
-
-MongoDB SQL Server
-
+</div>
 > ls ~/projects
+<table> <tr> <td width="50%">
 🚀 Automated Deployment System
+
 Push code to GitHub and a webhook triggers Jenkins, which builds and deploys the app in Docker containers on AWS EC2 behind Nginx, with real-time deployment tracking and ZIP download.
 
 Jenkins Docker AWS EC2 Nginx Node.js Webhooks
 
 View Repo →
 
+</td> <td width="50%">
 📊 AWS Monitoring & Alerting
+
 EC2 monitoring with CloudWatch alarms for high CPU usage and instance health checks, plus a simple logging and monitoring routine.
 
 AWS EC2 CloudWatch Alarms Logging
 
+Repo coming soon
+
+</td> </tr> <tr> <td width="50%">
 🌐 Personal Portfolio
+
 My portfolio website showcasing projects, skills and experience.
 
 HTML CSS JavaScript
 
 View Repo →
 
-🤖 More coming soon
-Kubernetes deployments, Ansible automation and more infrastructure projects are on the way.
+</td> <td width="50%">
+🛠️ More coming soon
+
+Kubernetes deployments and Ansible automation projects are on the way.
 
 Kubernetes Ansible
 
+See all repositories →
+
+</td> </tr> </table>
 > cat certifications.txt
-IBM IBM IBM IBM IBM NPTEL
+<div align="center">
 
-> git stats --live
- 
+<a href="https://www.linkedin.com/in/nishant-sawardekar-2974063a4/details/certifications/"><img src="https://img.shields.io/badge/IBM-Working_with_Containers,_Docker_%26_IBM_Cloud_Container_Registry-052FAD?style=flat-square&logo=ibm&logoColor=white" alt="IBM Containers"/></a> <a href="https://www.linkedin.com/in/nishant-sawardekar-2974063a4/details/certifications/"><img src="https://img.shields.io/badge/IBM-Docker_Essentials-052FAD?style=flat-square&logo=ibm&logoColor=white" alt="IBM Docker Essentials"/></a> <a href="https://www.linkedin.com/in/nishant-sawardekar-2974063a4/details/certifications/"><img src="https://img.shields.io/badge/IBM-Deploy_a_Web_Server_Using_Python_%26_Kubernetes-052FAD?style=flat-square&logo=ibm&logoColor=white" alt="IBM Python and Kubernetes"/></a> <a href="https://www.linkedin.com/in/nishant-sawardekar-2974063a4/details/certifications/"><img src="https://img.shields.io/badge/IBM-Scalable_Web_Applications_on_Kubernetes-052FAD?style=flat-square&logo=ibm&logoColor=white" alt="IBM Scalable Kubernetes"/></a> <a href="https://www.linkedin.com/in/nishant-sawardekar-2974063a4/details/certifications/"><img src="https://img.shields.io/badge/IBM-Prompt_Engineering_for_Everyone-052FAD?style=flat-square&logo=ibm&logoColor=white" alt="IBM Prompt Engineering"/></a> <a href="https://nptel.ac.in/"><img src="https://img.shields.io/badge/NPTEL-Cloud_Computing-F37021?style=flat-square" alt="NPTEL Cloud Computing"/></a>
 
-> contribution --snake
-Contribution snake
+</div>
+> contributions --3d
+<div align="center">
+
+<a href="https://github.com/ish1010n?tab=overview"><img src="https://raw.githubusercontent.com/ish1010n/ish1010n/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="100%"/></a>
+
+<br/> <img src="https://raw.githubusercontent.com/ish1010n/ish1010n/output/github-snake-dark.svg" alt="Contribution snake" width="100%"/> </div>
 > roadmap --2026
+diff
 + [DONE]  Ubuntu server administration, SSH, user management
 + [DONE]  AWS: EC2, VPC, IAM, S3, CloudWatch
 + [DONE]  Jenkins + Bitbucket/GitHub CI/CD pipelines
@@ -71,43 +75,10 @@ Contribution snake
 ! [NOW]   Ansible and Bash automation
 - [NEXT]  AWS certification (Cloud Practitioner → Solutions Architect Associate)
 - [NEXT]  Terraform + monitoring with Prometheus & Grafana
-> ./connect.sh
-LinkedIn Gmail Portfolio
+<div align="center"> <img src="https://raw.githubusercontent.com/ish1010n/ish1010n/main/assets/divider.svg" width="100%" alt=""/>
 
+<a href="https://www.linkedin.com/in/nishant-sawardekar-2974063a4"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="mailto:nishant.sawardekar2002@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/></a> <a href="https://github.com/ish1010n/nishant-portfolio"><img src="https://img.shields.io/badge/-Portfolio-7B2FF7?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 
 "Automate the boring stuff. Ship the cool stuff." ⚡
 
-
-PinnedLoading
- automated-deployment-system Public
-Automated deployment system using AWS EC2, Jenkins, Node.js and Nginx with real-time deployment tracking and ZIP download.
-
- HTML
-
- nishant-portfolio Public
-
- HTML
-
-9 contributions in the last year
-Skip to contributions year list
-Contribution Graph
-Day of Week	NovemberNov	DecemberDec	JanuaryJan	FebruaryFeb	MarchMar	AprilApr	MayMay	JuneJun	JulyJul	AugustAug	SeptemberSep	OctoberOct
-SundaySun																																																					
-MondayMon																																																					
-TuesdayTue																																																					
-WednesdayWed																																																					
-ThursdayThu																																																					
-FridayFri																																																					
-SaturdaySat																																																					
-Learn how we count contributions
-Less
-No contributions.
-Low contributions.
-Medium-low contributions.
-Medium-high contributions.
-High contributions.
-More
-Contribution activity
-November 2026
-ish1010n/ish1010n 5 commits
- ish1010n/ish1010n
+</div>
